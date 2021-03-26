@@ -3,7 +3,7 @@
 // Connecting to DB
 define('_DBSERVER', '213.171.200.101');
 define('_DBUSER', 'aserlix');
-define('_DBPASS', '5235952359As');
+define('_DBPASS', 'MyPassword');
 define('_DB', 'Its_Me');
 
 try {
